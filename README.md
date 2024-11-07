@@ -7,7 +7,7 @@ I'm a **Full Stack Developer in Progress**, with a strong foundation in **fronte
 - **Frontend Development**
   - **Languages**: HTML, CSS, JavaScript (ES6+), Tailwind CSS
   - **Frameworks**: React, Next.js
-  - **Libraries & Tools**: React Hooks, GSAP ScrollTrigger, Swiper.js, React Slick, MUI Icons, Chrome DevTools
+  - **Libraries & Tools**: React Hooks, GSAP ScrollTrigger, Swiper.js, React Slick, MUI Icons, Chrome DevTools, Redux
   
 - **Backend Development**
   - **Technologies**: Node.js, Express.js, MongoDB (in progress)
@@ -27,7 +27,7 @@ I actively participate in hackathons and competitions to sharpen my skills and t
 - **GPT-4.0 Hackathon on Devpost**: Gained experience with Firebase and Next.js.
 - **Calico Berkeley Competition**
 - **Lama Impact Hackathon**
-- **Ongoing**: Working on a project for a hackathon with my teammate, Sabahat.
+  
 
 ## 📈 Current Learning Journey
 
