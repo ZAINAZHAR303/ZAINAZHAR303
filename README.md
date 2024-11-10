@@ -51,7 +51,7 @@ I'm continuously improving my skills to stay up-to-date and competitive:
 ---
 
 📫 **Let's Connect!**  
-I'm always open to discussing new projects, collaborations, and learning opportunities. Feel free to reach out via my GitHub profile!
+I'm open to discussing new projects, collaborations, and learning opportunities. Feel free to reach out via my GitHub profile!
 
 ---
 
