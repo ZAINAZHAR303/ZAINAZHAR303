@@ -5,7 +5,7 @@ I'm a **Full Stack Developer in Progress**, with a strong foundation in **fronte
 ## 🔧 Skills & Technologies
 
 - **Frontend Development**
-  - **Languages**: HTML, CSS, JavaScript (ES6+), Tailwind CSS, Redux
+  - **Languages**: HTML, CSS, JavaScript (ES6+), Tailwind CSS, Redux,Firebase
   - **Frameworks**: React, Next.js
   - **Libraries & Tools**: React Hooks, GSAP ScrollTrigger, Swiper.js, React Slick, MUI Icons, Chrome DevTools, Redux
   
