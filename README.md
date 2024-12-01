@@ -23,7 +23,7 @@ I'm a **Full Stack Developer** with a strong foundation in **frontend developmen
 
 - **Frontend Specialist**: I craft visually stunning user interfaces and reusable components with React and Tailwind CSS.  
 - **Hackathon Enthusiast**: Participated in exciting hackathons like **NASA Space City Hacks**,**Meta Hacker Cup 2024** and **GPT 4.0** etc. to sharpen my skills. 
-- **Teamwork**: Worked with people in multiple hackathons and projects to improve my collaboration and communication skills.
+- **Teamwork**: Worked with international teammates in multiple hackathons and projects to improve my collaboration and communication skills.
 
 ---
 
