@@ -59,8 +59,9 @@ I'm a **Full Stack Developer** with a strong foundation in **frontend developmen
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zainazhar303&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainazhar303&theme=radical" alt="GitHub Streak" width="50%" />
+  
 </p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ZAINAZHAR303" alt="GitHub Streak" /></a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainazhar303&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="50%" />
 </p>
